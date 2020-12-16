@@ -24,12 +24,12 @@ Vim and IDE.
 
 Server must be debian series.
 
-`
 PHP is best code langugae. (Thanks php for enjoying the meal)
 
 Also love GO JAVASCRIPT...
 
 Also to study other language.
-`
+
+- - -
 
 ![](https://github-readme-stats.vercel.app/api?username=xc9788&theme=dark)
