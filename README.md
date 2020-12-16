@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 😝 ![](https://github-readme-stats.vercel.app/api?username=xc9788&theme=dark)
+
+Lion boy, code can save as us life.
+
+Chinese Jiangsu to Zhejiang.
+
+Vim and IDE.
+
+Server must be debian series.
+
+PHP is best code langugae. (Thanks php for enjoying the meal)
+Also love GO JAVASCRIPT...
+Also to study other language.
 
 <!--
 **xc9788/xc9788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=xc9788&theme=dark)
